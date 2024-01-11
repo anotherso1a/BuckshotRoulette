@@ -428,12 +428,12 @@ class BuckshotRoulette {
 // 手铐：跳过对方一回合
 
 // 双人
-// new BuckshotRoulette(new Player('战皇', 3), new Player('帅哥', 3)).start();
+// new BuckshotRoulette(new Player('玩家1', 3), new Player('玩家2', 3)).start();
 
 // 人机
 // level 1
-// new BuckshotRoulette(new Player('帅哥', 2), new Computer(2)).start();
+// new BuckshotRoulette(new Player('玩家', 2), new Computer(2)).start();
 // level 2
-new BuckshotRoulette(new Player('帅哥', 4), new Computer(4)).start();
+new BuckshotRoulette(new Player('玩家', 4), new Computer(4)).start();
 // level 3
-// new BuckshotRoulette(new Player('帅哥', 6), new Computer(6)).start();
+// new BuckshotRoulette(new Player('玩家', 6), new Computer(6)).start();
