@@ -1,4 +1,4 @@
-# Buckshot Roulette 游戏文档（README）
+# Buckshot Roulette
 
 ## 游戏简介
 
